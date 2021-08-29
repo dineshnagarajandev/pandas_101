@@ -12,9 +12,9 @@ first_eight_data = titanic.head(8)
 print("****** To get first 8 rows of data frame ******")
 print(first_eight_data)
 
-# To get data type of each coloumn
+# To get data type of each columns
 df_dataType = titanic.dtypes
-print("****** To get data type of each coloumn ******")
+print("****** To get data type of each columns ******")
 print(df_dataType)
 
 # Convert CSV to EXCEL
